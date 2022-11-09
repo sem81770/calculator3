@@ -1,0 +1,9 @@
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator3\bin\Debug\calculator3.exe.config
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator3\bin\Debug\calculator3.exe
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator3\bin\Debug\calculator3.pdb
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator3\bin\Debug\System.Console.dll
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator3\obj\Debug\calculator3.csproj.AssemblyReference.cache
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator3\obj\Debug\calculator3.csproj.CoreCompileInputs.cache
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator3\obj\Debug\calculator3.csproj.CopyComplete
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator3\obj\Debug\calculator3.exe
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator3\obj\Debug\calculator3.pdb
